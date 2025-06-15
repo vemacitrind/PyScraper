@@ -5,10 +5,13 @@
 - **YouTube Video Download** 
 
 More features will be added soon... 
+## Preview
+![Screenshot From 2025-06-15 15-09-40](https://github.com/user-attachments/assets/13305d73-56f0-467b-a77f-3ee4bbd02287)
 
 ## Installation
 
 Follow these steps to install PyScraper and its dependencies:
+
 
 ### **1. Clone the Repository (Optional)**
 If you're working with a repository, clone it using:
